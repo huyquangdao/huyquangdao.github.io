@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2021-05-14
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+AI Resident of 1st Batch of the <a href='https://ai.fpt-software.com/ai-residency/'>FPT AI Residency Program</a>

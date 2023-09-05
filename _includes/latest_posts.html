@@ -10,12 +10,11 @@
               {% else %}
               {% assign latest_posts_limit = latest_posts_size %}
               {% endif %}
-              {% for item in latest_posts limit: latest_posts_limit %}
+              {% for item in latest_posts limit: 2 %}
                 <tr>
-                  <th scope="row">{{ item.date | date: "%b %-d, %Y" }}</th>
                   <td>
                     {% if item.redirect == blank %}
-                      <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+                      <p class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</p>
                     {% elsif item.redirect contains '://' %}
                       <a class="news-title" href="{{ item.redirect }}" target="_blank">{{ item.title }}</a>
                       <svg width="2rem" height="2rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
