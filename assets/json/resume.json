@@ -1,0 +1,90 @@
+{
+  "basics": {
+    "name": "Dao Quang Huy",
+    "role": "AI Researcher",
+    "image": "",
+    "email": "huydao98.uet@gmail.com",
+    "phone": "(+65) 935-15652",
+    "url": "https://huyquangdao.github.io",
+    "summary": "A CS student who deeply interests in AI/ML research topics.",
+    "location": {
+      "address": "135 Serangoon Ave 3",
+      "postalCode": "CA 94115",
+      "city": "Singapore",
+      "countryCode": "Singapore",
+      "region": "Singapore"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "huyquangdao",
+        "url": "https://twitter.com/AlbertEinstein"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Singapore Management University",
+      "position": "Research Engineer",
+      "url": "https://example.com",
+      "startDate": "2023-09-11",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Natural Language Processing",
+        "Recommendation"
+      ]
+    },
+    {
+      "name": "FPT Software AI Center",
+      "position": "AI Resident",
+      "url": "https://example.com",
+      "startDate": "2021-05-14",
+      "endDate": "2023-07-15",
+      "summary": "",
+      "highlights": [
+        "Natural Language Processing",
+        "Recommendation",
+        "Graph Neural Network"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Engineering and Technology, Vietnam National University Hanoi",
+      "url": "https://www.uzh.ch/",
+      "area": "Information Technology (GPA: 3.63/4.0)",
+      "studyType": "Undergraduate Student",
+      "startDate": "2017-09-01",
+      "endDate": "2021-05-25",
+      "score": "3.65/4.0"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Third Prize in The Scientific Research Conference at University of Engineering and Technology (2021)",
+      "date": "2021-05"
+    },
+    {
+      "title": "Second Prize in The Scientific Research Conference at Faculty of Information Technology UET (2021)",
+      "date": "2021-05"
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [],
+  "languages": [
+    {
+      "language": "Vietnamese",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}
